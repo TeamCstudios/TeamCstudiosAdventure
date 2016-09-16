@@ -12,7 +12,7 @@ There will be more releases soon, stay put!
 
 Running the game couldn't be easier!
 
-1) Go to releases and download the source code.<br/>
+1) Go to GameJolt and download the ZIP.<br/>
 2) EXTRACT THE ZIP FILE<br/>
 3) Head into the extracted files and run the Game.exe
 
