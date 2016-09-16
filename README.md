@@ -4,7 +4,7 @@ Welcome to TeamCstudios Adventure!
 
 Join the discord chat to talk about Team Cstudios Adventure! https://discord.gg/X2m5ZcS
 
-We are currently in ALPHA!
+We are currently in Early Access of Episode 1 and prealpha-alpha everywhere else!
 
 There will be more releases soon, stay put!
 
@@ -21,8 +21,8 @@ Done!
 ## Current Releases:
 Episode|Version
 ---|----
-Episode 1:| [v1.0.0 ALPHA](https://github.com/TeamCstudios/TeamCstudiosAdventure/releases/tag/vE1-1.0-alpha) <br/>
-Episode 2:| Coming Soon!<br/>
+Episode 1:| [v1.0](https://github.com/TeamCstudios/TeamCstudiosAdventure/releases/tag/vE1-1.0) <br/>
+Episode 2:| Almost here!<br/>
 Episode 3:| Coming Soon!<br/>
 Episode 4:| Coming Soon!<br/>
 Episode 5:| Coming Soon!<br/>
