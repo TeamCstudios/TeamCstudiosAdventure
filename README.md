@@ -1,10 +1,10 @@
 # TeamCstudiosAdventure
 
-Welcome to TeamCstudios Adventure!
+Welcome to Team Cstudios Adventure, the RPG game about Team CStudios!
 
 Join the discord chat to talk about Team Cstudios Adventure! https://discord.gg/X2m5ZcS
 
-We are currently in Early Access of Episode 1 and prealpha-alpha everywhere else!
+We are currently in Full release of Episode 1, alpha of Episode 2, and prealpha everywhere else!
 
 There will be more releases soon, stay put!
 
@@ -22,7 +22,7 @@ Done!
 Episode|Version
 ---|----
 Episode 1:| [v1.0](https://github.com/TeamCstudios/TeamCstudiosAdventure/releases/tag/vE1-1.0) <br/>
-Episode 2:| v0.2.1 ALPHA<br/>
+Episode 2:| [v0.2.1 ALPHA](https://github.com/TeamCstudios/TeamCstudiosAdventure/releases/tag/vE1-0.2.1)<br/>
 Episode 3:| Coming Soon!<br/>
 Episode 4:| Coming Soon!<br/>
 Episode 5:| Coming Soon!<br/>
