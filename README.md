@@ -22,7 +22,7 @@ Done!
 Episode|Version
 ---|----
 Episode 1:| [v1.0](https://github.com/TeamCstudios/TeamCstudiosAdventure/releases/tag/vE1-1.0) <br/>
-Episode 2:| Almost here!<br/>
+Episode 2:| v0.2.1 ALPHA<br/>
 Episode 3:| Coming Soon!<br/>
 Episode 4:| Coming Soon!<br/>
 Episode 5:| Coming Soon!<br/>
