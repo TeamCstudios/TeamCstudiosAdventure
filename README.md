@@ -4,7 +4,7 @@ Welcome to Team Cstudios Adventure, an RPG game about Team CStudios!
 
 Join the discord chat where we will post announcements or discuss the game! https://discord.gg/X2m5ZcS
 
-We are currently in Full release of Episode 1, alpha of Episode 2, and prealpha everywhere else!
+We are currently in Full release of Episode 1, Full Release of Episode 2, Early Access of Episode 3 and prealpha everywhere else!
 
 There will be more releases soon, stay put!
 
