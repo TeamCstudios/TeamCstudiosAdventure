@@ -1,4 +1,4 @@
-# TeamCstudiosAdventure
+# Team Cstudios Adventure
 
 Welcome to Team Cstudios Adventure, an RPG game about Team CStudios!
 
